@@ -15,7 +15,7 @@ In order to use this compose file (docker-compose.yml) you must have:
 1. Close this repository
 
 ```bash
-$ git clone https://github.com/steevepay/gitlab-docker-letsencrypt.git
+$ git clone https://github.com/jozefdo/gitlab-docker-letsencrypt.git
 ```
 
 2. Make a copy of the `.env.example` and rename it to `.env`:
